@@ -1,0 +1,9 @@
+.main {
+  display: center;
+  margin: 3;
+  align-items: right;
+  justify-content: right;
+  flex-wrap: wrap;
+  max-width: 500px;
+} 
+
